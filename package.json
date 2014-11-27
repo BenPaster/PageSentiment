@@ -1,0 +1,12 @@
+{
+  "name": "PageSentiment",
+  "version": "0.0.1",
+  "description": "Figure out how sentiment and page popularity are linked on facebook.",
+  "author": "Ben Paster <ben@besimpler.com>",
+  "dependencies": {
+    "fb": "0.6.x",
+    "sentiment": "0.2.x",
+    "json2csv": "2.2.x",
+    "q": "1.1.x"
+  }
+}
